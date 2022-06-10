@@ -1,1 +1,7 @@
 ktrain
+notebook
+matplotlib
+numpy
+pandas
+#sciket-learn
+tensorflow

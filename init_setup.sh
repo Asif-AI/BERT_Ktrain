@@ -8,7 +8,7 @@ echo [$(date)]: "install requirements"
 pip install -r requirements.txt
 echo [$(date)]: "Pytorch 1.8.1 installing..."
 conda install pytorch==1.8.1 cudatoolkit=11.3 -c pytorch -c conda-forge
-echo [$(date)]: "START"
+echo [$(date)]: "END"
 
 # to remove everything -
 # rm -rf env/ .gitignore conda.yaml README.md .git/
